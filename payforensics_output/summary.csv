@@ -1,0 +1,13 @@
+metric,value
+Total Transactions,20000.0
+Total Transaction Amount,239232643.29999998
+Average Transaction Value,11961.632164999999
+Failed Rate,0.09775
+Pending Rate,0.0386
+Chargeback Count,2607.0
+Disputed Amount,6902429.790000001
+High Risk Users,125.0
+High Risk Merchants,100.0
+High Risk Transactions,57.0
+Suspicious Rings,289.0
+Disputes After 7 Days,78.0

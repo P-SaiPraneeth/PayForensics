@@ -1,0 +1,290 @@
+ring_id,user_count,merchant_count,transaction_count,total_amount,chargeback_count,chargeback_amount,risk_score,risk_level,risk_reasons
+RING_0694,4,1,4,22507.440000000002,5.0,15762.65,63.0,HIGH,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0270,2,2,3,27869.5,4.0,15987.98,56.0,HIGH,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0535,2,2,3,35408.76,4.0,8252.039999999999,56.0,HIGH,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0265,3,1,3,39055.03,4.0,12273.39,53.0,HIGH,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0131,3,1,3,19639.72,4.0,8957.92,53.0,HIGH,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0330,2,2,3,61274.479999999996,3.0,20907.670000000002,51.0,HIGH,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0304,2,2,3,19677.940000000002,3.0,5668.18,51.0,HIGH,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0648,2,2,3,38186.1,3.0,11112.91,51.0,HIGH,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0581,2,2,3,22570.37,3.0,13672.24,51.0,HIGH,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0872,2,3,4,68558.76999999999,2.0,2982.66,48.35,MEDIUM,multiple connected merchants; linked chargeback activity
+RING_0447,3,1,3,45200.090000000004,3.0,6303.65,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0168,3,1,3,48587.39000000001,3.0,10586.9,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0141,3,1,3,48177.369999999995,3.0,15583.16,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0273,3,1,3,60618.7,3.0,14354.85,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0233,3,1,3,47494.009999999995,3.0,5140.04,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0082,3,1,3,31178.43,3.0,10427.300000000001,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0733,3,1,3,33144.759999999995,3.0,7414.65,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0584,3,1,3,50843.64,3.0,8334.48,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0687,3,1,3,34773.21,3.0,19559.5,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0554,3,1,3,21531.1,3.0,6273.360000000001,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0560,3,1,3,47166.97,3.0,5137.3099999999995,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0103,3,1,3,29529.190000000002,3.0,3298.93,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0121,3,1,3,19823.92,3.0,8372.98,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0294,3,1,3,38379.86,3.0,13326.189999999999,48.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0146,2,2,3,42318.340000000004,3.0,2607.0,47.16,MEDIUM,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0834,2,2,3,37558.35,3.0,2043.15,46.44,MEDIUM,multiple connected merchants; linked chargeback activity; elevated disputed amount ratio
+RING_0812,3,1,3,31185.47,3.0,2263.3,45.26,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0527,3,1,3,45587.63,3.0,2678.0099999999998,43.87,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0293,2,1,2,13822.31,3.0,9248.74,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1270,2,1,2,26844.69,3.0,5154.57,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1336,2,1,2,26682.25,3.0,7669.97,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0865,2,1,2,6985.79,3.0,5913.0,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0890,2,1,2,46670.34,3.0,5811.0,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1007,2,1,2,49370.93,3.0,12667.59,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0714,2,1,2,34754.63,3.0,7752.35,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1552,2,1,2,37923.73,3.0,12432.57,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0623,2,1,2,31440.18,3.0,6021.15,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1123,2,1,2,36496.53,3.0,4467.04,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1032,2,1,2,28191.399999999998,3.0,6717.460000000001,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0091,2,1,2,12995.099999999999,3.0,7584.43,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0032,2,1,2,15396.63,3.0,3545.43,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0033,3,1,3,12530.91,2.0,8611.05,43.0,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0084,2,1,2,25847.03,3.0,7383.24,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1435,2,1,2,34337.2,3.0,12159.89,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0806,2,1,2,44173.100000000006,3.0,5583.93,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1890,2,1,2,17252.04,3.0,1752.2800000000002,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1676,2,1,2,22318.559999999998,3.0,6564.58,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0277,2,1,2,16646.71,3.0,2004.62,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0334,2,1,2,37478.96,3.0,3761.24,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0562,2,1,2,23638.36,3.0,4483.41,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0937,2,1,2,32074.68,3.0,9614.68,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1128,2,1,2,-4052.1100000000006,3.0,2204.8500000000004,43.0,MEDIUM,linked chargeback activity
+RING_1150,2,1,2,30425.93,3.0,3415.46,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1226,2,1,2,18368.76,3.0,3523.1200000000003,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0234,2,1,2,15435.689999999999,3.0,23194.36,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0302,2,1,2,34283.92,3.0,5015.36,43.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0414,3,1,3,41840.68,2.0,4166.45,42.96,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_0080,3,1,3,48676.14,3.0,2196.54,42.51,MEDIUM,multiple connected users; linked chargeback activity
+RING_0538,2,1,2,19201.33,3.0,1644.1,41.56,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0489,2,1,2,35753.05,3.0,3025.21,41.46,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0182,3,1,3,30894.760000000002,3.0,917.78,40.97,MEDIUM,multiple connected users; linked chargeback activity
+RING_0209,2,1,2,18658.82,3.0,1483.85,40.95,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0723,2,1,2,29560.99,3.0,2132.25,40.21,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0332,2,2,3,55280.11,2.0,1664.31,39.01,MEDIUM,multiple connected merchants; linked chargeback activity
+RING_1043,3,1,3,32961.520000000004,2.0,1805.71,38.48,MEDIUM,multiple connected users; linked chargeback activity; elevated disputed amount ratio
+RING_1312,2,1,2,24714.22,3.0,1355.0,38.48,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1164,2,1,2,21495.149999999998,2.0,19412.120000000003,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1158,2,1,2,14300.61,2.0,1943.45,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1154,2,1,2,12101.25,2.0,3431.71,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1236,2,1,2,10770.09,2.0,25248.56,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0225,2,1,2,35015.05,2.0,8687.98,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0252,2,1,2,18431.530000000002,2.0,4085.21,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0242,2,1,2,15790.49,2.0,3674.5199999999995,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1217,2,1,2,12322.82,2.0,9084.37,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1362,2,1,2,40735.100000000006,2.0,17245.86,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1308,2,1,2,6114.09,2.0,9753.64,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1319,2,1,2,28777.33,2.0,5552.969999999999,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1322,2,1,2,26016.41,2.0,4628.47,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1197,2,1,2,14259.130000000001,2.0,2765.16,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_2088,2,1,2,22012.49,2.0,4608.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1323,2,1,2,14682.3,2.0,2080.17,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1327,2,1,2,21438.800000000003,2.0,2159.7,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1326,2,1,2,7047.23,2.0,5769.71,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1351,2,1,2,31628.6,2.0,5846.360000000001,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1289,2,1,2,14168.93,2.0,7853.9400000000005,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1352,2,1,2,37121.8,2.0,3972.42,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1135,2,1,2,26244.66,2.0,3362.04,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1198,2,1,2,9894.58,2.0,2993.44,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1232,2,1,2,27306.48,2.0,7417.98,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0152,2,1,2,15742.74,2.0,1882.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0169,2,1,2,37180.42,2.0,6594.92,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0176,2,1,2,17552.89,2.0,2675.8900000000003,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0172,2,1,2,40394.16,2.0,4195.81,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0163,2,1,2,2448.19,2.0,2598.82,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0219,2,1,2,13975.93,2.0,19217.31,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0351,2,1,2,10904.630000000001,2.0,21547.4,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0471,2,1,2,9627.4,2.0,16468.34,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0463,2,1,2,30929.33,2.0,8214.17,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0436,2,1,2,34032.96,2.0,9477.96,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0435,2,1,2,39418.770000000004,2.0,11793.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0506,2,1,2,18013.04,2.0,2167.51,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0518,2,1,2,22143.96,2.0,2763.02,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0530,2,1,2,32116.85,2.0,9060.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0568,2,1,2,45065.59,2.0,7119.78,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0573,2,1,2,20606.44,2.0,2670.94,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0478,2,1,2,27116.18,2.0,2766.33,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0298,2,1,2,24390.58,2.0,17812.489999999998,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0263,2,1,2,22103.35,2.0,4089.92,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0257,2,1,2,13267.869999999999,2.0,8086.61,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0542,2,1,2,15920.24,2.0,6795.34,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0555,2,1,2,18031.97,2.0,6434.35,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0256,2,1,2,29534.949999999997,2.0,29045.79,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0181,2,1,2,31870.590000000004,2.0,5686.17,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0123,2,1,2,1826.21,2.0,3281.64,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0127,2,1,2,40327.979999999996,2.0,8733.04,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0177,2,1,2,13871.25,2.0,2225.43,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0321,2,1,2,6496.08,2.0,1302.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0324,2,1,2,16672.07,2.0,10072.49,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0320,2,1,2,39127.85,2.0,22390.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0309,2,1,2,19490.03,2.0,6349.5599999999995,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0336,2,1,2,9483.67,2.0,1413.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0310,2,1,2,6505.34,2.0,13258.15,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0312,2,1,2,16763.98,2.0,1770.35,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0316,2,1,2,12559.49,2.0,1815.29,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0314,2,1,2,7943.43,2.0,3039.8500000000004,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0278,2,1,2,10752.220000000001,2.0,13265.87,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0290,2,1,2,27182.88,2.0,14621.36,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0606,2,1,2,35218.46,2.0,6391.92,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0602,2,1,2,15656.11,2.0,2086.17,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0597,2,1,2,34905.869999999995,2.0,4616.97,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0590,2,1,2,25964.42,2.0,9758.37,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0650,2,1,2,21801.52,2.0,12848.74,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0636,2,1,2,27568.04,2.0,2830.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0645,2,1,2,-12086.559999999998,2.0,13217.49,38.0,MEDIUM,linked chargeback activity
+RING_0647,2,1,2,29432.519999999997,2.0,3577.6,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0690,2,1,2,7996.0,2.0,2780.32,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1029,2,1,2,14798.11,2.0,5157.54,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0991,2,1,2,29805.85,2.0,5531.01,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1028,2,1,2,30512.35,2.0,4402.84,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1093,2,1,2,28143.72,2.0,4129.74,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1020,2,1,2,38378.92,2.0,6174.44,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1083,2,1,2,31217.32,2.0,4182.9400000000005,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1067,2,1,2,33101.1,2.0,8275.94,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0952,2,1,2,24248.51,2.0,9878.08,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1016,2,1,2,26392.010000000002,2.0,5267.09,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0653,2,1,2,13680.71,2.0,2773.41,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0657,2,1,2,11375.33,2.0,3611.07,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0711,2,1,2,8955.51,2.0,10824.869999999999,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0402,2,1,2,8705.14,2.0,7652.76,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0627,2,1,2,25151.739999999998,2.0,4060.7799999999997,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0722,2,1,2,5552.8099999999995,2.0,5107.13,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0670,2,1,2,16680.18,2.0,2011.5900000000001,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0702,2,1,2,28424.88,2.0,4549.21,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0709,2,1,2,20954.160000000003,2.0,2670.89,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0358,2,1,2,35908.26,2.0,4474.08,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0399,2,1,2,24157.620000000003,2.0,19346.73,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0364,2,1,2,19537.510000000002,2.0,2926.63,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0375,2,1,2,32024.04,2.0,6052.19,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0397,2,1,2,20836.48,2.0,9520.57,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0879,2,1,2,39521.15,2.0,4949.31,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0857,2,1,2,21453.789999999997,2.0,9039.27,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0853,2,1,2,38583.06,2.0,4720.79,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0855,2,1,2,17094.03,2.0,2119.11,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0973,2,1,2,16465.87,2.0,3467.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0982,2,1,2,29531.16,2.0,9916.58,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0916,2,1,2,6889.1,2.0,12031.46,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0929,2,1,2,40548.61,2.0,20294.280000000002,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0959,2,1,2,3247.21,2.0,8303.35,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0964,2,1,2,32178.59,2.0,5203.32,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0954,2,1,2,-2786.75,2.0,1946.37,38.0,MEDIUM,linked chargeback activity
+RING_1035,2,1,2,33981.28,2.0,4667.629999999999,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0998,2,1,2,28957.04,2.0,5439.35,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1004,2,1,2,20899.95,2.0,2858.83,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0803,2,1,2,28120.27,2.0,6259.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0797,2,1,2,4729.09,2.0,3145.7,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_2029,2,1,2,39086.399999999994,2.0,5296.7,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1916,2,1,2,23056.190000000002,2.0,3068.3,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1702,2,1,2,14589.5,2.0,2961.6800000000003,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0001,2,1,2,32259.99,2.0,8004.21,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1774,2,1,2,23035.350000000002,2.0,3467.5299999999997,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1784,2,1,2,31549.940000000002,2.0,7027.39,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1793,2,1,2,16589.100000000002,2.0,14440.4,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0790,2,1,2,-2911.3700000000003,2.0,985.19,38.0,MEDIUM,linked chargeback activity
+RING_0757,2,1,2,20531.07,2.0,3319.46,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0764,2,1,2,18912.93,2.0,9730.68,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0774,2,1,2,10895.880000000001,2.0,2111.05,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0773,2,1,2,18741.34,2.0,3747.46,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0778,2,1,2,2507.9700000000003,2.0,9368.71,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1909,2,1,2,33795.78,2.0,4140.36,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0752,2,1,2,28308.44,2.0,3051.0499999999997,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0794,2,1,2,27256.370000000003,2.0,3886.0699999999997,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1387,2,1,2,11945.449999999999,2.0,3056.76,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1656,2,1,2,4673.009999999999,2.0,2311.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1635,2,1,2,3266.92,2.0,9977.75,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1608,2,1,2,20696.690000000002,2.0,3825.49,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1586,2,1,2,39310.36,2.0,5214.27,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1575,2,1,2,36642.17,2.0,5589.67,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1566,2,1,2,32241.690000000002,2.0,5521.1900000000005,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1846,2,1,2,44202.36,2.0,4814.63,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1734,2,1,2,38917.67,2.0,4515.09,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1543,2,1,2,12453.89,2.0,5816.01,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1500,2,1,2,19787.04,2.0,4655.030000000001,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0113,2,1,2,21763.93,2.0,18265.19,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0108,2,1,2,20407.510000000002,2.0,6357.16,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1465,2,1,2,23655.26,2.0,8011.2,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1429,2,1,2,14699.970000000001,2.0,6969.02,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1395,2,1,2,20034.94,2.0,27364.86,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0117,2,1,2,14930.23,2.0,5614.25,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0114,2,1,2,34665.78,2.0,5126.030000000001,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0115,2,1,2,18084.85,2.0,4311.7,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0116,2,1,2,18130.68,2.0,16524.78,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0101,2,1,2,27742.329999999998,2.0,4775.919999999999,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0093,2,1,2,29422.46,2.0,2983.39,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0095,2,1,2,6668.93,2.0,749.06,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0097,2,1,2,19893.41,2.0,7803.07,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0073,2,1,2,28363.84,2.0,16627.47,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0061,2,1,2,22464.15,2.0,2631.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0043,2,1,2,33487.86,2.0,44450.57,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0075,2,1,2,19604.760000000002,2.0,12187.4,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0009,2,1,2,26425.629999999997,2.0,13544.7,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0076,2,1,2,26029.59,2.0,2869.2,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0022,2,1,2,31593.739999999998,2.0,8032.32,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0013,2,1,2,18503.07,2.0,3588.0,38.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0999,2,1,2,34121.17,2.0,3403.4399999999996,37.97,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1041,3,1,3,35277.84,2.0,1708.3600000000001,37.84,MEDIUM,multiple connected users; linked chargeback activity
+RING_0763,2,1,2,40141.32,2.0,3935.3599999999997,37.8,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0315,3,1,3,34526.56,2.0,1654.78,37.79,MEDIUM,multiple connected users; linked chargeback activity
+RING_1087,2,1,2,32931.35,2.0,3189.74,37.69,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0027,2,1,2,12615.0,2.0,1219.73,37.67,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0629,2,1,2,27269.239999999998,2.0,2636.83,37.67,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0968,2,1,2,22455.2,2.0,2151.0,37.58,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0271,2,1,2,40059.8,2.0,3812.24,37.52,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0205,2,1,2,19874.27,2.0,1847.8100000000002,37.3,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0962,2,1,2,18223.06,2.0,1683.68,37.24,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0403,2,1,2,41124.2,2.0,3771.1499999999996,37.17,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0306,2,1,2,20689.059999999998,2.0,1884.8400000000001,37.11,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0599,2,1,2,25761.399999999998,2.0,2345.0,37.1,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0843,2,1,2,32131.57,3.0,1312.53,37.08,MEDIUM,linked chargeback activity
+RING_1044,2,1,2,44227.51,2.0,4003.58,37.05,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0042,2,1,2,25653.739999999998,2.0,2276.23,36.87,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0578,2,1,2,23320.239999999998,2.0,2025.69,36.69,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1213,2,1,2,20869.620000000003,2.0,1724.94,36.27,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1054,2,1,2,16177.310000000001,2.0,1272.4,35.87,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0441,2,1,2,13165.0,2.0,1027.78,35.81,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0226,2,1,2,22676.38,2.0,1721.07,35.59,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0192,2,1,2,10917.779999999999,2.0,813.4,35.45,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1357,2,1,2,15171.619999999999,2.0,993.95,34.55,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1551,2,1,2,19540.54,2.0,1257.97,34.44,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1018,2,1,2,25440.82,2.0,1632.57,34.42,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0682,2,1,2,31815.059999999998,2.0,2034.0,34.39,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_1880,2,1,2,16671.86,2.0,1064.06,34.38,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0094,2,1,2,32905.630000000005,2.0,2009.7399999999998,34.11,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0195,2,1,2,1965.3400000000001,2.0,119.0,34.05,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0046,2,1,2,20914.77,2.0,1253.1200000000001,33.99,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0258,2,1,2,31115.74,2.0,1843.51,33.92,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0059,2,1,2,36568.94,2.0,2128.78,33.82,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0144,2,1,2,24919.620000000003,2.0,1446.29,33.8,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0758,2,1,2,22000.640000000003,2.0,1234.0,33.61,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0787,2,1,2,39229.59,2.0,2134.24,33.44,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0198,2,1,2,17165.14,2.0,905.23,33.27,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0990,2,1,2,42869.23,2.0,2251.36,33.25,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0236,2,1,2,25297.28,2.0,1314.24,33.2,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0710,2,1,2,34768.13,2.0,1757.24,33.05,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0008,2,1,2,16293.130000000001,3.0,0.0,33.0,MEDIUM,linked chargeback activity
+RING_1167,2,1,2,13119.99,1.0,7597.0,33.0,MEDIUM,linked chargeback activity; elevated disputed amount ratio
+RING_0481,2,1,2,34785.13,2.0,1605.4499999999998,32.62,MEDIUM,linked chargeback activity
+RING_1295,2,1,2,8840.42,2.0,388.0,32.39,MEDIUM,linked chargeback activity
+RING_0230,2,1,2,30157.86,2.0,1306.0,32.33,MEDIUM,linked chargeback activity
+RING_0880,2,1,2,29914.3,2.0,1267.05,32.24,MEDIUM,linked chargeback activity
+RING_0143,2,1,2,25555.0,2.0,1072.1100000000001,32.2,MEDIUM,linked chargeback activity
+RING_1225,2,1,2,45003.87,2.0,1851.17,32.11,MEDIUM,linked chargeback activity
+RING_1851,2,1,2,37953.4,2.0,1535.06,32.04,MEDIUM,linked chargeback activity
+RING_0345,2,1,2,38320.54,2.0,1412.21,31.69,MEDIUM,linked chargeback activity
+RING_2063,2,1,2,23549.07,2.0,838.9,31.56,MEDIUM,linked chargeback activity
+RING_1166,2,1,2,41230.69,2.0,1286.87,31.12,MEDIUM,linked chargeback activity
+RING_0318,2,1,2,41652.979999999996,2.0,1200.09,30.88,MEDIUM,linked chargeback activity
+RING_1002,2,1,2,16741.16,2.0,482.6,30.88,MEDIUM,linked chargeback activity
+RING_1284,2,1,2,41673.32,2.0,1097.4,30.63,MEDIUM,linked chargeback activity
+RING_0154,2,1,2,34586.020000000004,2.0,863.79,30.5,MEDIUM,linked chargeback activity
+RING_0344,2,1,2,46552.96,2.0,909.1500000000001,29.95,MEDIUM,linked chargeback activity
+RING_0819,2,1,2,46166.25,2.0,851.0,29.84,MEDIUM,linked chargeback activity
+RING_1040,2,1,2,21796.46,2.0,330.36,29.52,MEDIUM,linked chargeback activity
+RING_0914,2,1,2,15589.89,2.0,185.0,29.19,MEDIUM,linked chargeback activity
+RING_0191,2,1,2,41781.89,2.0,471.0,29.13,MEDIUM,linked chargeback activity
+RING_1951,2,1,2,28718.08,2.0,221.0,28.77,MEDIUM,linked chargeback activity
+RING_0903,2,1,2,13230.34,2.0,0.0,28.0,MEDIUM,linked chargeback activity
+RING_0906,2,1,2,16809.57,2.0,0.0,28.0,MEDIUM,linked chargeback activity
+RING_1589,2,1,2,21015.079999999998,2.0,0.0,28.0,MEDIUM,linked chargeback activity
+RING_0689,2,1,2,4232.4400000000005,2.0,0.0,28.0,MEDIUM,linked chargeback activity
