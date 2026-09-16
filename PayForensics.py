@@ -1753,17 +1753,13 @@ elif page == "🔎 AI Investigator":
     # The environment-variable / Streamlit-secrets fallback is kept
     # so the same code can also be deployed securely later.
 
-    api_key = GEMINI_API_KEY.strip()
+    api_key = os.getenv("GEMINI_API_KEY", "").strip()
 
-    # Optional fallback for deployments using secrets/environment variables.
-    if not api_key or api_key == "PASTE_YOUR_GEMINI_API_KEY_HERE":
-        api_key = os.getenv("GEMINI_API_KEY", "").strip()
-
-    if not api_key or api_key == "PASTE_YOUR_GEMINI_API_KEY_HERE":
-        try:
-            api_key = str(st.secrets.get("GEMINI_API_KEY", "")).strip()
-        except Exception:
-            api_key = ""
+if not api_key:
+    try:
+        api_key = str(st.secrets.get("GEMINI_API_KEY", "")).strip()
+    except Exception:
+        api_key = ""
 
     # Free-tier friendly model for this analytics chatbot.
     model_name = os.getenv(
